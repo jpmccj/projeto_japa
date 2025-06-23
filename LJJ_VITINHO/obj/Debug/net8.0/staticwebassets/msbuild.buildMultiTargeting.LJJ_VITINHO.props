@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LJJ_VITINHO.props" />
+</Project>
